@@ -41,9 +41,9 @@
 ---
 
 ## 📫 Connect With Me
-- 🐦 **Twitter**: [@thematrix9](#)  
-- 💼 **LinkedIn**: [The_Matrix9](#)  
-- 🌐 **Portfolio**: [thematrix9.dev](#)
+- 🐦 **instagram**: [@thematrix9](www.instagram.com/anshopi__/)  
+- 💼 **LinkedIn**: [The_Matrix9](@anshopi__)  
+- 🌐 **Portfolio**: [thematrix9.dev](https://legendary-swan-7ca626.netlify.app/)
 
 ---
 
